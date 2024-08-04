@@ -4,6 +4,8 @@
 
 Welcome to the Tamil Cloud! 
 
+<img src="docs/assets/image/tamil_cloud_logo_.png" alt="Tamil Cloud" width="30%">
+
 This regional community is dedicated to sharing cloud knowledge and resources in Tamil, helping enthusiasts learn and grow in the field of cloud computing.
 
 ## Join Us
