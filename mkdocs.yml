@@ -1,0 +1,29 @@
+site_name: Tamil Cloud
+
+theme:
+  name: material
+  palette:
+    primary: red
+  logo: assets/image/tamil_cloud_logo.jpg
+  favicon: assets/image/tamil_cloud_logo.jpg
+  features:
+    - navigation.instant
+    - header.autohide
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - AWS:
+     - Linux Shell Scripting: aws/linuxeng-need-shell-scripting.md
+     - Automatically Revert SG Rule: aws/automatically-revert-sg-rule.md  
+  - DevOps Training 2024:
+      - Index: devops_training/devops_trainng_2024.md
+  - terraform-workspace: 
+      - Index: terraform-workspace.md
+      - tfcloud-sentinel: tfcloud-sentinel.md
+      - s3bucketcreation: aws/s3bucketcreation.md
+      - tfcloud-github-workflow: tfcloud-github-workflow.md
+  - Docker Jenkins: dockerjenkins.md
+
+extra:
+  generator: false
