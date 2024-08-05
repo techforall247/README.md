@@ -1,4 +1,4 @@
-## DevOps Trainng 2024
+# DevOps Trainng 2024 - Overview [Doc](../assets/files/DevOps_Training_Presentation.pdf)
 
 **1. Introduction to DevOps**  
 

@@ -4,6 +4,7 @@ theme:
   name: material
   palette:
     primary: red
+    scheme: slate  # This ensures dark mode is always enabled
   logo: assets/image/tamil_cloud_logo.jpg
   favicon: assets/image/tamil_cloud_logo.jpg
   features:
@@ -18,12 +19,18 @@ nav:
      - Automatically Revert SG Rule: aws/automatically-revert-sg-rule.md  
   - DevOps Training 2024:
       - Index: devops_training/devops_trainng_2024.md
-  - terraform-workspace: 
-      - Index: terraform-workspace.md
-      - tfcloud-sentinel: tfcloud-sentinel.md
-      - s3bucketcreation: aws/s3bucketcreation.md
-      - tfcloud-github-workflow: tfcloud-github-workflow.md
-  - Docker Jenkins: dockerjenkins.md
 
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tamil-cloud-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%B5%E0%AF%81%E0%AE%9F%E0%AF%8D-41ab5519a
+      name: LinkedIn
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@tamilcloudzone
+      name: YouTube
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tamilcloudchennal
+      name: Facebook
+
+copyright: Copyright &copy; Tamil Cloud Commuity
